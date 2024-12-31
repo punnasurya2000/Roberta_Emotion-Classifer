@@ -84,5 +84,8 @@ Emotion classification is a crucial step in understanding user sentiment and gen
 ### **2. Install Required Libraries**
 Run the following command:
 ```bash
-pip install transformers torch pandas numpy scikit-learn matplotlib seaborn```
-### **3. 
+pip install transformers torch pandas numpy scikit-learn matplotlib seaborn
+```
+
+### **3. Use Google collab pro 
+- For faster running code 
