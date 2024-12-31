@@ -87,5 +87,5 @@ Run the following command:
 pip install transformers torch pandas numpy scikit-learn matplotlib seaborn
 ```
 
-### **3. Use Google collab pro 
+### **3. Use Google collab pro **
 - For faster running code 
