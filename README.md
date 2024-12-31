@@ -89,6 +89,6 @@ pip install transformers torch pandas numpy scikit-learn matplotlib seaborn
 
 ### **3. Use Google collab pro**
 - For faster running code
-- 
+ 
 ### **4. project link**
 - **Link**: [Project](https://huggingface.co/Surya0105/Emotion-Classifier)
